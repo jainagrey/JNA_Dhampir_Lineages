@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="10" build="400" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="Rule">
+					<attribute id="ApplyTagsFromTemplate" type="bool" value="False" />
+					<attribute id="ApplyVisual" type="bool" value="False" />
+					<attribute id="ChangeBodyType" type="bool" value="False" />
+					<attribute id="ChangeIcon" type="bool" value="False" />
+					<attribute id="ChangeRace" type="bool" value="True" />
+					<attribute id="IgnoreCustomLooks" type="bool" value="True" />
+					<attribute id="RemoveOldTags" type="bool" value="False" />
+					<attribute id="RetainDisplayName" type="bool" value="True" />
+					<attribute id="RuleName" type="LSString" value="Jaina_Racechange" />
+					<attribute id="UUID" type="guid" value="7d277b8e-87b3-4c64-bbcc-917d905b0f87" />
+					<attribute id="UseShapeshiftIdentity" type="bool" value="False" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

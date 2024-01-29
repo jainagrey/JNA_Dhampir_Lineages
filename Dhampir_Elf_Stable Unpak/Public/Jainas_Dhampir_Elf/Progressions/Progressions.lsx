@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+            <attribute id="Boosts" type="LSString" value="Ability(Constitution,1);ActionResource(Movement, 10.7, 0)" />
+            <attribute id="Level" type="uint8" value="1" />
+            <attribute id="Name" type="LSString" value="JNA_Elf_Dhampir" />
+            <attribute id="PassivesAdded" type="LSString" value="JNA_Thirsty;JNA_Dhampir_Deathless" />
+            <attribute id="ProgressionType" type="uint8" value="2" />
+            <attribute id="Selectors" type="LSString" value="AddSpells(2e603110-d171-4a9b-afc2-ab6b6645920a),,,,AlwaysPrepared" />
+            <attribute id="TableUUID" type="guid" value="8b3c0e2a-d3aa-4da6-8370-8b2afae9a5d4" />
+            <attribute id="UUID" type="guid" value="95f9d737-9ad5-48a4-9a8b-758ba8621374" />
+          </node>
+      </children>
+    </node>
+  </region>
+</save>

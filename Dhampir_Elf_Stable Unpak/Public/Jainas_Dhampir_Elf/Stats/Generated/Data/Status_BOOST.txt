@@ -1,0 +1,21 @@
+
+new entry "JNA_THIRSTYSTATUS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h52344eb2ge4f8g4f6egbd9bg4b715fc4f2cd"
+data "Description" "h90e6ae46g1426g443bg9da0g69abd6365f7b"
+data "Icon" "Status_Astarion_Weak"
+data "Boosts" "Disadvantage(AllSavingThrows)"
+data "StackID" "JNA_THIRSTYSTATUS"
+data "StatusProperty"Flags" ""
+
+
+
+new entry "ASTARION_HAPPY_Jaina"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ASTARION_HAPPY"
+data "Description" "h36b6c7afgd6d5g4f57g9d22g28b628c130b0"
+
+
+
