@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="he6eb9d17g92a3g40fdg8facge9ab67896695" version="1">Dhampir</content>
+    <content contentuid="h0fb5b675g47e8g4d8fgb724g1b55cc6e53cb" version="1">Marked by a bloody inheritance, dark bargain, or harrowing encounter, dhampirs are creatures who have been forever changed by vampiric blood.</content>
+    
+    <content contentuid="h26be6140ge10bg45d4g98b3gac86e5e2f948" version="1">Dhampir</content>
+    <content contentuid="h27f31112gd49dg46a9ga7a1g5f425009b243" version="1">Marked by a bloody inheritance, dark bargain, or harrowing encounter, dhampirs are creatures who have been forever changed by vampiric blood.</content>
+    
+    <content contentuid="h52344eb2ge4f8g4f6egbd9bg4b715fc4f2cd" version="1">Relentless Thirst</content> JNA_ThirstStatus
+    <content contentuid="h90e6ae46g1426g443bg9da0g69abd6365f7b" version="1">Your thirst demands to be satisfied. You have disadvantage on all saving throws until you feed.</content>
+    
+    <content contentuid="hb3ede672gc556g47f3gbf2ag516052d1c262" version="1">Deathless Nature</content> JNA_Dhampir_Nature
+    <content contentuid="h45bb928fgbd83g46afgb263g9ab429c1c58e" version="1">You no longer need to breathe, and you are resistant to poison.</content>
+        
+    <content contentuid="haf42070cgeca3g4ba1g9491g5f5d6ea800b7" version="1">Dhampir's Thirst</content> JNA_ThirstPassive
+    <content contentuid="hc7a5448dg8b5dg4ff4g993ege83d709ead59" version="1">Every dhampir knows a thirst slaked only by the living. After each long rest, you gain &lt;LSTag Type="Status" Tooltip="Jaina_ThirstStatus"&gt;Vicious Thirst&lt;/LSTag&gt; until you feed on someone with &lt;LSTag Type="Spell" Tooltip="Target_Bite_Vampire_Jaina"&gt;Vampiric Bite&lt;/LSTag&gt;</content>
+
+    <content contentuid="ha265fa5dg1bc3g4b2agad6eg23ee7c28f65f" version="1">Deathless Vigor</content> JNA_Dhampir_Vigor
+    <content contentuid="h6fb23469g8fc7g46degb67egc9549c2c6a0f" version="1">Your physical prowess is empowered by your vampiric blood. Your jump distance is increased, and you suffer less fall damage.</content>
+
+    <content contentuid="h541da760g06adg4bdbgb27agb82302976a62" version="1">Vampiric Bite</content>
+    <content contentuid="h034731c4ge27fg439egb559g95831b1f5956" version="1">Sink your fangs into your enemy and satisfy your dark hunger.</content>
+    <content contentuid="hdcccd1bagd82dg4732g8d73gad650ce9eba7" version="1">Vicious Claws</content>
+    <content contentuid="h3343db51g81a4g49bfgaeb7g23edacc664f6" version="1">A mark of your bloody inheritance, your claws are sharp enough to rend flesh and bone alike.</content>
+
+
+</contentList>

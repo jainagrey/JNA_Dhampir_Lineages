@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="49" />
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Dependencies" />
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSWString" value="Jaina" />
+          <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
+          <attribute id="Description" type="LSWString" value="Adds the dhampir lineage from Ravenloft 5e." />
+          <attribute id="Folder" type="LSWString" value="Jainas_Dhampir_Elf" />
+          <attribute id="GMTemplate" type="FixedString" value="" />
+          <attribute id="LobbyLevelName" type="FixedString" value="" />
+          <attribute id="MD5" type="LSString" value="" />
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
+          <attribute id="MenuLevelName" type="FixedString" value="" />
+          <attribute id="Name" type="FixedString" value="Jaina's Dhampir Lineages" />
+          <attribute id="NumPlayers" type="uint8" value="4" />
+          <attribute id="PhotoBooth" type="FixedString" value="" />
+          <attribute id="StartupLevelName" type="FixedString" value="" />
+          <attribute id="Tags" type="LSWString" value="" />
+          <attribute id="Type" type="FixedString" value="Add-on" />
+          <attribute id="UUID" type="FixedString" value="cbdb4d43-1fa7-4b1f-8df7-fdbd067cc5fa" />
+          <attribute id="Version64" type="int64" value="108790078498668544" />
+          <children>
+            <node id="PublishVersion">
+              <attribute id="Version64" type="int64" value="108790078498668544" />
+            </node>
+            <node id="Scripts" />
+            <node id="TargetModes">
+              <children>
+                <node id="Target">
+                  <attribute id="Object" type="FixedString" value="Story" />
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

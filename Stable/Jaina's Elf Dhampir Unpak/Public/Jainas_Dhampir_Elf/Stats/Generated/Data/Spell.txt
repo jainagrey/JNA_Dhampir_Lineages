@@ -1,0 +1,25 @@
+
+new entry "Target_Claws_Vampire_JNA"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Claws_Quasit"
+data "Sheathing" "Sheathed"
+data "SpellSuccess" "DealDamage(1d6+DexterityModifier,Slashing)"
+data "DisplayName" "hdcccd1bagd82dg4732g8d73gad650ce9eba7"
+data "Description" "h3343db51g81a4g49bfgaeb7g23edacc664f6"
+data "DescriptionParams" "DealDamage(1d6+DexterityModifier,Slashing)"
+data "TooltipDamageList" "DealDamage(1d6+DexterityModifier,Slashing)"
+
+new entry "Target_Bite_Vampire_JNA"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Bite_Vampire"
+data "Sheathing" "Sheathed"
+data "SpellSuccess" "DealDamage(1d4+ConstitutionModifier,Piercing);RegainHitPoints(SELF, 1d4+ConstitutionModifier);ApplyStatus(ASTARION_WEAK,100,-1);RemoveStatus(SELF, JNA_ThirstStatus)"
+data "DisplayName" "h541da760g06adg4bdbgb27agb82302976a62"
+data "Description" "h034731c4ge27fg439egb559g95831b1f5956"
+data "DescriptionParams" "DealDamage(1d4+ConstitutionModifier,Piercing);RegainHitPoints(SELF, 1d4+ConstitutionModifier)"
+data "TooltipDamageList" "DealDamage(1d4+ConstitutionModifier,Piercing);RegainHitPoints(SELF, 1d4+ConstitutionModifier)"
+data "TooltipStatusApply" "ApplyStatus(ASTARION_WEAK,100,-1);RemoveStatus(SELF, JNA_ThirstStatus)"
+
+

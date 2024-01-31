@@ -1,0 +1,21 @@
+Changelog
+
+New branch, adding Dhampir to Half-Orc. Hoping it's going to be straightforward!
+
+Made RootTemplates
+Added new entries to CC Presets
+Added new entries to CharVis
+Added entries to Races
+
+New UUID for Meta, updated fields in Meta
+New UUID for Races.lsx: 589d6cde-af8a-4157-806c-617b2f81476e
+Changed Description, Displayname, and Progressiontable to the same as Elf_Dhampir
+
+WIP:
+
+Make ThirstPassive into a debuff that stacks or gets worse over time
+Add a psychic drain option at CC
+Make custom icons for spells and the subrace
+Add more CC flavor
+Add some kind of progression at 3, 5, 9, and 12
+Find a way to add visible claws?

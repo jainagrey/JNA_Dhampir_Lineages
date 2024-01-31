@@ -1,0 +1,16 @@
+Changelog
+
+Changed variable names, cleaned up loca files
+Changed the icon for Claw to the Quasit Claw icon
+Separate Deathless into Vigor and Nature
+Changed icons for Vigor and Nature
+Added descriptions for Claw and Bite
+
+WIP:
+
+Make ThirstPassive into a debuff that stacks or gets worse over time
+Add a psychic drain option at CC
+Make custom icons for spells and the subrace
+Add more CC flavor
+Add some kind of progression at 3, 5, 9, and 12
+Find a way to add visible claws?

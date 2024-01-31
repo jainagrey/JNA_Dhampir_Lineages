@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+                <node id="GameObjects">
+                    <attribute id="CharacterVisualResourceID" type="FixedString" value="d40b4b11-2f8b-4e5f-ab54-f6449028dcc6" />
+                    <attribute id="EquipmentRace" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
+                    <attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
+                    <attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="MapKey" type="FixedString" value="23f72198-3d09-49c2-8118-aead3a0d1eb9" /> new
+                    <attribute id="Name" type="LSString" value="HalfOrcs_Male_Player" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="18d1c8fb-dafe-47b6-8001-246a067451f4" /> halforcs dhampir base in roottemplates merged
+                    <attribute id="PortraitVisualResourceID" type="FixedString" value="cd67df82-8a06-2005-740f-9c7762097834" />
+                    <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+                    <attribute id="Stats" type="FixedString" value="HeroHalfOrcMale" />
+                    <attribute id="Type" type="FixedString" value="character" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+                    <children>
+                        <node id="LocomotionParams" />
+                        <node id="SpeakerGroupList">
+                            <children>
+                                <node id="SpeakerGroup">
+                                    <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+                                </node>
+                                <node id="SpeakerGroup">
+                                    <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+			</children>
+		</node>
+	</region>
+</save>

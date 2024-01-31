@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="e91ca18d-49a5-4f9a-bfbc-96a82602c8c6" />
+					<attribute id="Name" type="LSString" value="BASE_Elves_Female_Dhampir" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f89e3922-f92e-4279-809e-4a95336a75a9" />
+					<attribute id="Race" type="guid" value="c6441b73-d0a6-4625-95c6-4576bba29ceb" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="e1cc2367-32d0-4696-aaa3-08b9308cbc4a" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="21ce3474-a5db-4700-9f26-bf36f3d61d32" />
+					<attribute id="Name" type="LSString" value="BASE_Elves_Male_Dhampir" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="b8e49e88-a0bd-480d-9e8b-8a24a4444376" />
+					<attribute id="Race" type="guid" value="c6441b73-d0a6-4625-95c6-4576bba29ceb" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="e1cc2367-32d0-4696-aaa3-08b9308cbc4a" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+                        
+                        <children>
+                            <node id="GameObjects">
+                                <attribute id="MapKey" type="FixedString" value="e91ca18d-49a5-4f9a-bfbc-96a82602c8c6" />
+                                <attribute id="Name" type="LSString" value="BASE_Elves_Female_Dhampir" />
+                                <attribute id="LevelName" type="FixedString" value="" />
+                                <attribute id="Type" type="FixedString" value="character" />
+                                <attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" />
+                                <attribute id="VisualTemplate" type="FixedString" value="" />
+                                <attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+                                <attribute id="CharacterVisualResourceID" type="FixedString" value="f89e3922-f92e-4279-809e-4a95336a75a9" />
+                                <attribute id="Race" type="guid" value="c6441b73-d0a6-4625-95c6-4576bba29ceb" />
+                                <children>
+                                    <node id="Tags">
+                                        <children>
+                                            <node id="Tag">
+                                                <attribute id="Object" type="guid" value="5015e662-fc59-41a0-97ce-a2d971a8f475" />
+                                            </node>
+                                        </children>
+                                    </node>
+                                    <node id="GameMaster" />
+                                    <node id="LocomotionParams" />
+                                </children>
+                            </node>
+                            <node id="GameObjects">
+                                <attribute id="MapKey" type="FixedString" value="21ce3474-a5db-4700-9f26-bf36f3d61d32" />
+                                <attribute id="Name" type="LSString" value="BASE_Elves_Male_Dhampir" />
+                                <attribute id="LevelName" type="FixedString" value="" />
+                                <attribute id="Type" type="FixedString" value="character" />
+                                <attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" />
+                                <attribute id="VisualTemplate" type="FixedString" value="" />
+                                <attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+                                <attribute id="CharacterVisualResourceID" type="FixedString" value="b8e49e88-a0bd-480d-9e8b-8a24a4444376" />
+                                <attribute id="Race" type="guid" value="c6441b73-d0a6-4625-95c6-4576bba29ceb" />
+                                <children>
+                                    <node id="Tags">
+                                        <children>
+                                            <node id="Tag">
+                                                <attribute id="Object" type="guid" value="e1cc2367-32d0-4696-aaa3-08b9308cbc4a" />
+                                            </node>
+                                        </children>
+                                    </node>
+                                    <node id="GameMaster" />
+                                    <node id="LocomotionParams" />
+                                </children>
+                            </node>
+                            <node id="GameObjects">
+                                <attribute id="CharacterVisualResourceID" type="FixedString" value="9ec94019-3f5c-3717-dc7d-92612431de15" />
+                                <attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+                                <attribute id="GeneratePortrait" type="LSString" value="Icon_HalfOrcs_Male" />
+                                <attribute id="Icon" type="FixedString" value="9ec94019-3f5c-3717-dc7d-92612431de15-_(Icon_HalfOrcs_Male)" />
+                                <attribute id="LevelName" type="FixedString" value="" />
+                                <attribute id="MapKey" type="FixedString" value="54b229cf-7820-4592-a824-de45796c4516" /> New mapkey
+                                <attribute id="Name" type="LSString" value="BASE_HalfOrcs_Dhampir_Male" />
+                                <attribute id="ParentTemplateId" type="FixedString" value="18d1c8fb-dafe-47b6-8001-246a067451f4" /> points to halforc vanilla
+                                <attribute id="Type" type="FixedString" value="character" />
+                                <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+                                <children>
+                                    <node id="Tags">
+                                        <children>
+                                            <node id="Tag">
+                                                <attribute id="Object" type="guid" value="5015e662-fc59-41a0-97ce-a2d971a8f475" />
+                                            </node>
+                                        </children>
+                                    </node>
+                                    <node id="GameMaster" />
+                                    <node id="LocomotionParams" />
+                                </children>
+                            </node>
+                            <node id="GameObjects">
+                                <attribute id="CharacterVisualResourceID" type="FixedString" value="e23ab84d-f1eb-8b06-9df4-080ab173d5ba" />
+                                <attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+                                <attribute id="GeneratePortrait" type="LSString" value="Icon_HalfOrcs_Female" />
+                                <attribute id="Icon" type="FixedString" value="e23ab84d-f1eb-8b06-9df4-080ab173d5ba-_(Icon_HalfOrcs_Female)" />
+                                <attribute id="LevelName" type="FixedString" value="" />
+                                <attribute id="MapKey" type="FixedString" value="18ad391e-1f03-4f02-ad26-92b46a119693" /> New Mapkey
+                                <attribute id="Name" type="LSString" value="BASE_HalfOrcs_Dhampir_Female" />
+                                <attribute id="ParentTemplateId" type="FixedString" value="18d1c8fb-dafe-47b6-8001-246a067451f4" /> points to halforc vanilla
+                                <attribute id="Type" type="FixedString" value="character" />
+                                <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+                                <children>
+                                    <node id="Bounds">
+                                        <children>
+                                            <node id="Bound">
+                                                <attribute id="Height" type="float" value="2" />
+                                                <attribute id="Max" type="fvec3" value="0.40751 1.93354 0.0630085" />
+                                                <attribute id="Min" type="fvec3" value="-0.40751 -0.00135875 -0.1058585" />
+                                                <attribute id="Radius" type="float" value="0.249" />
+                                                <attribute id="Shape" type="uint8" value="2" />
+                                                <attribute id="Type" type="uint8" value="0" />
+                                            </node>
+                                            <node id="Bound">
+                                                <attribute id="Height" type="float" value="2" />
+                                                <attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+                                                <attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+                                                <attribute id="Radius" type="float" value="0.2" />
+                                                <attribute id="Shape" type="uint8" value="2" />
+                                                <attribute id="Type" type="uint8" value="1" />
+                                            </node>
+                                            <node id="Bound">
+                                                <attribute id="Height" type="float" value="2" />
+                                                <attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+                                                <attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+                                                <attribute id="Radius" type="float" value="0.499" />
+                                                <attribute id="Shape" type="uint8" value="2" />
+                                                <attribute id="Type" type="uint8" value="2" />
+                                            </node>
+                                        </children>
+                                    </node>
+                                    <node id="Tags">
+                                        <children>
+                                            <node id="Tag">
+                                                <attribute id="Object" type="guid" value="5015e662-fc59-41a0-97ce-a2d971a8f475" />
+                                            </node>
+                                        </children>
+                                    </node>
+                                    <node id="GameMaster" />
+                                    <node id="LocomotionParams" />
+                                </children>
+                            </node>
+                        </children>
+                        
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
