@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Dhampir|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hf1c02928g1670g41a2gb7f7gfe4b05eb5003" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h6cdd4c74gba22g4665g99d5g0c40d540ff8a" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="JNA_Dhampir_Lineage" />
+			<attribute id="UUID" type="guid" value="fdd988a6-747c-4d2f-853f-84d7d8ca3707" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

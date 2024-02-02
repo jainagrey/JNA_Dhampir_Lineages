@@ -5,11 +5,11 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="e91ca18d-49a5-4f9a-bfbc-96a82602c8c6" />
+					<attribute id="MapKey" type="FixedString" value="e91ca18d-49a5-4f9a-bfbc-96a82602c8c6" /> Unique
 					<attribute id="Name" type="LSString" value="BASE_Elves_Female_Dhampir" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> Mapkey to Base_Elves_Male
 					<attribute id="VisualTemplate" type="FixedString" value="" />
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f89e3922-f92e-4279-809e-4a95336a75a9" />
@@ -49,16 +49,15 @@
 					</children>
 				</node>
                 <node id="GameObjects">
-                    <attribute id="CharacterVisualResourceID" type="FixedString" value="9ec94019-3f5c-3717-dc7d-92612431de15" />
-                    <attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
-                    <attribute id="GeneratePortrait" type="LSString" value="Icon_HalfOrcs_Male" />
-                    <attribute id="Icon" type="FixedString" value="8ba1b324-51b1-43e9-bce9-79cfc39f22fa-_(Icon_HalfOrcs_Male)" />
-                    <attribute id="LevelName" type="FixedString" value="" />
                     <attribute id="MapKey" type="FixedString" value="54b229cf-7820-4592-a824-de45796c4516" /> New mapkey
                     <attribute id="Name" type="LSString" value="BASE_HalfOrcs_Dhampir_Male" />
-                    <attribute id="ParentTemplateId" type="FixedString" value="0350f048-11f5-42fe-8399-228e419f4789" /> points to base_halforcs_male
+                    <attribute id="LevelName" type="FixedString" value="" />
                     <attribute id="Type" type="FixedString" value="character" />
-                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="0350f048-11f5-42fe-8399-228e419f4789" /> points to base_halforcs_male
+                    <attribute id="VisualTemplate" type="FixedString" value="" />
+                    <attribute id="Icon" type="FixedString" value="8ba1b324-51b1-43e9-bce9-79cfc39f22fa-_(Icon_HalfOrcs_Male)" />
+                    <attribute id="CharacterVisualResourceID" type="FixedString" value="9ec94019-3f5c-3717-dc7d-92612431de15" />
+                    <attribute id="Race" type="guid" value="589d6cde-af8a-4157-806c-617b2f81476e" />
                     <children>
                         <node id="Tags">
                             <children>
@@ -72,16 +71,15 @@
                     </children>
                 </node>
                 <node id="GameObjects">
-                    <attribute id="CharacterVisualResourceID" type="FixedString" value="e23ab84d-f1eb-8b06-9df4-080ab173d5ba" />
-                    <attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
-                    <attribute id="GeneratePortrait" type="LSString" value="Icon_HalfOrcs_Female" />
-                    <attribute id="Icon" type="FixedString" value="673aacd5-dc7c-4bf0-9390-159660628288-_(Icon_HalfOrcs_Female)" />
-                    <attribute id="LevelName" type="FixedString" value="" />
                     <attribute id="MapKey" type="FixedString" value="18ad391e-1f03-4f02-ad26-92b46a119693" /> New Mapkey
                     <attribute id="Name" type="LSString" value="BASE_HalfOrcs_Dhampir_Female" />
-                    <attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" /> points to base_halforcs_female
+                    <attribute id="LevelName" type="FixedString" value="" />
                     <attribute id="Type" type="FixedString" value="character" />
-                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" /> points to base_halforcs_female
+                    <attribute id="VisualTemplate" type="FixedString" value="" />
+                    <attribute id="Icon" type="FixedString" value="673aacd5-dc7c-4bf0-9390-159660628288-_(Icon_HalfOrcs_Female)" />
+                    <attribute id="CharacterVisualResourceID" type="FixedString" value="9ec94019-3f5c-3717-dc7d-92612431de15" />
+                    <attribute id="Race" type="guid" value="589d6cde-af8a-4157-806c-617b2f81476e" />
                     <children>
                         <node id="Bounds">
                             <children>

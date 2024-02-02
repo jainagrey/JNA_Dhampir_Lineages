@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d7685ee8-5de3-497a-86a5-f8265429d777" />
+					<attribute id="Name" type="LSString" value="HalfElves_Male_Dhampir_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8b678bc8-a68d-4cd7-a537-5565411a9870" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroHalfElfMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="cfe0b543-1cc6-4f0b-a53d-5ca380207e5f" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
