@@ -19,3 +19,17 @@ Make custom icons for spells and the subrace
 Add more CC flavor
 Add some kind of progression at 3, 5, 9, and 12
 Find a way to add visible claws?
+
+        <node id="Race">
+          <attribute id="Description" type="TranslatedString" handle="h9a4e44c9g72e0g43b6ga72bgd83fcb6b40d1" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h6362370ag39d0g407fgaff0g3d98f3bb161e" version="1" />
+          <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" />
+          <attribute id="Name" type="FixedString" value="CL_ShadarKai" />
+          <attribute id="ParentGuid" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a" />
+          <attribute id="ProgressionTableUUID" type="guid" value="01735427-a4df-4ce4-8fb6-4b1b8c6c3771" />
+          <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />
+          <attribute id="UUID" type="guid" value="27844147-3e0f-4b2e-8377-8d015b8384df" />
+          <children>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="18e053a8-3887-4ffa-1593-128e7285a4e4" />
+            </node>

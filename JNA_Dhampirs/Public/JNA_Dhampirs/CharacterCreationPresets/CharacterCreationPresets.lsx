@@ -11,8 +11,8 @@
 					<attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B" />
 					<attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A" />
 					<attribute id="RaceUUID" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a" />
-					<attribute id="RootTemplate" type="guid" value="a0614a80-d55d-42a5-91d9-2ac482096fd2" />
-					<attribute id="SubRaceUUID" type="guid" value="c6441b73-d0a6-4625-95c6-4576bba29ceb" />
+					<attribute id="RootTemplate" type="guid" value="a0614a80-d55d-42a5-91d9-2ac482096fd2" /> this points to body type roottemplates mapkey
+                            <attribute id="SubRaceUUID" type="guid" value="c6441b73-d0a6-4625-95c6-4576bba29ceb" />
 					<attribute id="UUID" type="guid" value="19cf4362-a2d3-4694-8285-64933a8c4148" />
 					<attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e" />
 				</node>
@@ -52,8 +52,6 @@
 					<attribute id="UUID" type="guid" value="98fde01b-e515-4e7c-9168-60f4d2af10e8" />
 					<attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e" />
 				</node>
-                
-                
                 <node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>

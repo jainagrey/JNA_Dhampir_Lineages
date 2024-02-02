@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="01a0a3d7-8b86-4ce7-bfb4-a603a83d34f3" />
+					<attribute id="Name" type="LSString" value="BASE_HalfElves_Female_Dhampir" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ebd9d3bf-9759-4244-b20a-a57c1f4bafe6" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="3dc0b334-7e2b-479d-986a-4e25a33a9854" />
+					<attribute id="Race" type="guid" value="60ea3d34-2019-4255-b79b-ff711b884c79" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fdd988a6-747c-4d2f-853f-84d7d8ca3707" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="8b678bc8-a68d-4cd7-a537-5565411a9870" />
+					<attribute id="Name" type="LSString" value="BASE_HalfElves_Male_Dhampir" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cee79608-12bc-47dc-8577-d2e46e8ba48d" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="b8e49e88-a0bd-480d-9e8b-8a24a4444376" />
+					<attribute id="Race" type="guid" value="60ea3d34-2019-4255-b79b-ff711b884c79" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fdd988a6-747c-4d2f-853f-84d7d8ca3707" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
