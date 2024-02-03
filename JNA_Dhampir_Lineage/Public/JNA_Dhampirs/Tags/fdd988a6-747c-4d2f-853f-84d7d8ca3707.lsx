@@ -7,7 +7,7 @@
 			<attribute id="DisplayDescription" type="TranslatedString" handle="hf1c02928g1670g41a2gb7f7gfe4b05eb5003" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h6cdd4c74gba22g4665g99d5g0c40d540ff8a" version="2" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="JNA_Dhampir_Lineage" />
+			<attribute id="Name" type="FixedString" value="JNA_Dhampirs" />
 			<attribute id="UUID" type="guid" value="fdd988a6-747c-4d2f-853f-84d7d8ca3707" />
 			<children>
 				<node id="Categories">
